@@ -680,6 +680,20 @@ p {
     font-size: 11px;
 }
 
+.client-text{
+font-size: 20px;
+font-style: italic;
+color: #575757;
+}
+.client{
+font-size: 18px;
+color: #575757;
+}
+
+.slogan{
+font-size: 22px;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
