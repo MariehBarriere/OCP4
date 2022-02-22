@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper1.webp");
     background-size: 280px 280px;
 }
 
@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: #000000;
 }
 
 .d-bloc .a-btn:hover,
@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
 }
 
 .container {
@@ -678,6 +678,20 @@ a {
 
 p {
     font-size: 11px;
+}
+
+.client-text{
+font-size: 20px;
+font-style: italic;
+color: #575757;
+}
+.client{
+font-size: 15px;
+color: #575757;
+}
+
+.slogan{
+font-size: 22px;
 }
 
 .tight-width-whitespace {
@@ -723,11 +737,15 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #F3976C!important;
 }
 
 h4 {
     color: #333333!important;
+}
+h5{
+    font-size: 25px;
+    color:#F3976C;
 }
 
 .icons {
@@ -736,7 +754,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .portfolio-thumb {
@@ -753,7 +771,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: #F3976C;
     padding: 40px 40px 40px 40px;
 }
 
@@ -785,7 +803,7 @@ h4 {
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white {
@@ -809,20 +827,20 @@ h4 {
     border-color: #364577!important;
 }
 
-.bg-dots-bg {
+/*.bg-dots-bg {
     background-image: url("img/dots-bg.png");
-}
+}*/
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg.webp");
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la-chouette-agence-banniere1.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
