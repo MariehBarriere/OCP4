@@ -525,10 +525,10 @@ button {
     margin-top: 6px;
 }
 
-.showScrollTop {
+/*.showScrollTop {
     font-size: 14px;
     opacity: 1;
-}
+}*/
 
 a[data-lightbox] {
     position: relative;
@@ -796,7 +796,7 @@ h5{
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
